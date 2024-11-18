@@ -21,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://ahmed-mohammed-developer.github.io/DarkThemOnline",
+  "homepage": "https://ahmed-mohammed-developer.github.io/SlideToUnlock",
 
   "eslintConfig": {
     "extends": [
